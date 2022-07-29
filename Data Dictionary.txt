@@ -19,3 +19,5 @@ newbalanceDest - new balance recipient after the transaction. Note that there is
 isFraud - This is the transactions made by the fraudulent agents inside the simulation. In this specific dataset the fraudulent behavior of the agents aims to profit by taking control or customers accounts and try to empty the funds by transferring to another account and then cashing out of the system.
 
 isFlaggedFraud - The business model aims to control massive transfers from one account to another and flags illegal attempts. An illegal attempt in this dataset is an attempt to transfer more than 200.000 in a single transaction.
+
+Data Link- https://www.google.com/url?sa=D&q=https://drive.google.com/uc%3Fexport%3Ddownload%26confirm%3D6gh6%26id%3D1VNpyNkGxHdskfdTNRSjjyNa5qC9u0JyV&ust=1659200700000000&usg=AOvVaw2TCkgrxo6Z_MnM7Lap5Zi2&hl=en-GB&source=gmail
